@@ -1,0 +1,188 @@
+; COSMAC VIP Font
+; Based on the original for the COSMAC VIP system.
+; MisbitFont Form by Joshua Moss
+; Completely free for use and modification
+
+font_name "VIP"
+language "Neutral"
+palette_format 1
+max_font_size 4x5
+spacing_type Monospace
+draw_mode binary
+
+
+; 0
+draw on
+
+1111
+1001
+1001
+1001
+1111
+
+draw off
+
+; 1
+draw on
+
+1100
+0100
+0100
+0100
+1111
+
+draw off
+
+; 2
+draw on
+
+1111
+0001
+1111
+1000
+1111
+
+draw off
+
+; 3
+draw on
+
+1111
+0001
+1111
+0001
+1111
+
+draw off
+
+; 4
+draw on
+
+1010
+1010
+1111
+0010
+0010
+
+draw off
+
+; 5
+draw on
+
+1111
+1000
+1111
+0001
+1111
+
+draw off
+
+; 6
+draw on
+
+1111
+1000
+1111
+1001
+1111
+
+draw off
+
+; 7
+draw on
+
+1111
+0001
+0001
+0001
+0001
+
+draw off
+
+; 8
+draw on
+
+1111
+1001
+1111
+1001
+1111
+
+draw off
+
+; 9
+draw on
+
+1111
+1001
+1111
+0001
+1111
+
+draw off
+
+; A
+draw on
+
+1111
+1001
+1111
+1001
+1001
+
+draw off
+
+; B
+draw on
+
+1111
+0101
+0111
+0101
+1111
+
+draw off
+
+; C
+draw on
+
+1111
+1000
+1000
+1000
+1111
+
+draw off
+
+; D
+draw on
+
+1111
+0101
+0101
+0101
+1111
+
+draw off
+
+; E
+draw on
+
+1111
+1000
+1111
+1000
+1111
+
+draw off
+
+; F
+draw on
+
+1111
+1000
+1111
+1000
+1000
+
+draw off
